@@ -93,7 +93,7 @@ tv_shows %>%
   scale_x_date(date_breaks = "5 years", date_labels = "%Y") +
 #### labs
   labs(title = "Time Travelers",
-       subtitle = "Lifespans of anime series/franchise that will take >6 full days of your life to watch.\nYou will need only ~18 years to watch the entire MAL database (only complete titles)\nif you make sure you do it for 8 hours each day",
+       subtitle = "Lifespans of anime series/franchise that will take >6 full days of your life to watch.\nYou will need only ~18 years to watch the entire MAL database (only complete titles)\nif you make sure you do it for 8 hours each day.",
        x = "",
        y = "",
        caption = "#TidyTuesday 2019-04-23 @artjomshl") +
